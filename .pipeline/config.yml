@@ -32,7 +32,8 @@ steps:
     cloudFoundry:
       org: 'CF-ORG-CSM-E2E-DEMOS'
       space: 'CSM-E2E-DEMOS-DWC-SPACE'
-      credentialsId: 'CF_CREDENTIALSID'
+      apiEndpoint: 'https://api.cf.eu10.hana.ondemand.com'      
+      credentialsId: 'cf-credentialsid'
 #  mavenExecute:
 #    dockerImage: devxci/mbtci:1.0.14
 
