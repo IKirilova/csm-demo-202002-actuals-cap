@@ -38,7 +38,7 @@ resources:
   type: com.sap.xs.hdi-container
   parameters:
     config:
-      database_id: 9ee99a70-9d98-481d-ab94-00b0417b66c5
+      database_id: e33af58c-6da5-4dba-9772-0802f432d479
       schema: CSM_DEMO_202002_ACTUALS
     service: hana
     service-plan: hdi-shared
