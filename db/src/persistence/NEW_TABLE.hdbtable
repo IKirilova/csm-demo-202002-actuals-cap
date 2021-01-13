@@ -1,5 +1,4 @@
 COLUMN TABLE "NEW_TABLE"(
 	"YEAR_"				INTEGER         COMMENT 'Year',
-	"MONTH_" 		    NVARCHAR(2)     COMMENT 'Month',
     "UNIT"			    NVARCHAR(3)     COMMENT 'Unit'
 );
